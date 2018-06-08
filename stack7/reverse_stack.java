@@ -23,6 +23,7 @@ sf.push(8);
 System.out.println(sf);
 ss=reversestack(sf,ss);
 System.out.println(ss);
-
+//int a=ss.get(1);System.out.print(a);
+//System.out.println(ss);
 }
 }
