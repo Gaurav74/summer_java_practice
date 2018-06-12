@@ -6,7 +6,7 @@ public class list_practice {
 
 	
 	public static void main(String args[]){
-
+	
 		List<Integer> list=new ArrayList<>();
 		list.add(3);
 		list.add(4);
